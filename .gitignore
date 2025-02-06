@@ -1,0 +1,7 @@
+\build
+*.vhd
+*.dmg
+*.img
+*.elf
+*.bin
+*.o
