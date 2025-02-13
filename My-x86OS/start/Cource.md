@@ -23,3 +23,19 @@ BIOS会检查第0个扇区最后两个字节（1FE和1FF）是否为0x55和0xAA�
 ![4.3 Project Structure](img\4.3 Project Structure.png)
 
 ![4.3 Development workflow](img\4.3 Development workflow.png)
+
+### 4.4 初始化引导程序
+
+![4.4 boot program](img\4.4 boot program.png)
+
+![4.4 boot 0x7c00 0x55 0xaa](img\4.4 boot 0x7c00 0x55 0xaa.png)
+
+![4.4 boot and loader](img\4.4 boot and loader.png)
+
+![4.4 x86 Real mode](img\4.4 x86 Real mode.png)
+
+![4.4 Kernel register](img\4.4 Kernel register.png)
+
+![4.4 Segment Registers](img\4.4 Segment Registers.png)
+
+![4.4 memory-mapped](img\4.4 memory-mapped.png)
